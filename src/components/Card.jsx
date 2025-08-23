@@ -15,7 +15,7 @@ export function Card({ picture, name, email, bio }) {
                 </div>
                 <p className="mt-[30px] text-[14px] leading-[22px]">{bio}</p>
             </div>
-            <div className="h-full border-t border-b border-dashed mt-3 mb-3 border-light-gray border-b-2 border-t-2"></div>
+            <div className="h-full border-t border-b border-dashed mt-3 mb-7 border-light-gray border-b-2 border-t-2"></div>
         </>
     )
 }
